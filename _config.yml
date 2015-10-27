@@ -1,6 +1,7 @@
 name: Beer Food Lodging
 favicon: null
 layout_spectrum: 0.4942846510093659
+typography_spectrum: 0.9930532001890242
 cta:
   domain: null
   bucket: null
@@ -23,4 +24,3 @@ purpose:
   - name: engagement
     item: null
     url: null
-typography_spectrum: 0.9930532001890242
